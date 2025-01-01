@@ -1,0 +1,1 @@
+This repository contains a MATLAB function that throws an uninformative error message when a negative input is passed. The solution provides a more specific error message that indicates that the input must be non-negative.
